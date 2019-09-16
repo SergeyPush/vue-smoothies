@@ -1,4 +1,5 @@
 import firebase from "firebase/app";
+// eslint-disable-next-line
 import firestore from "firebase/firestore";
 // Your web app's Firebase configuration
 var firebaseConfig = {
